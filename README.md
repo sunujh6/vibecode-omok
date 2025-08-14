@@ -23,7 +23,7 @@ $ npm install
 
 $ npm install framer-motion lucide-react
 
-## build version running
+## build & running
 
 $ npm run build
 
