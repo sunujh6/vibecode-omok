@@ -4,7 +4,7 @@
 
 # Running on Local
 
-NPM 10.9.3, node.js 22.18.0
+NPM 10.9.3, node.js 22.18.0, vite v7.1.2
 
 -------
 --- upgrade packages ---
